@@ -112,7 +112,6 @@ An **AI-driven flood susceptibility prediction system** designed for arid region
 | **Real Estate** | Property risk assessment (AED 1,800/report) |
 | **Disaster Preparedness** | Early warning systems and evacuation planning |
 | **Infrastructure** | Design drainage systems in risk areas |
-| **Insurance** | Risk-based pricing and underwriting |
 | **Climate Adaptation** | Support UAE's COP28 goals |
 
 ---
