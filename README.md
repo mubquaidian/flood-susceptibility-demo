@@ -135,7 +135,7 @@ For access to the complete system, please contact:
 
 **Muhammad Umar Bilal**
 - M.Sc. Geophysics (2005)
-- 15+ years international experience
+- 13+ years international experience
 - UAE Driving License: ✅ Valid
 
 ---
