@@ -157,4 +157,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for climate resilience in the UAE**
 
-**Note**: This is a demonstration repository. The complete codebase is available in the [private repository](https://github.com/mubquaidian/flood-susceptibility-full) under formal agreement.
+**Note**: A full version of this system is available at: [flood-susceptibility-full](https://github.com/mubquaidian/flood-susceptibility-full) under formal agreement.
