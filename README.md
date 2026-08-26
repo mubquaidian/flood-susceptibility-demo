@@ -69,7 +69,7 @@ An **AI-driven flood susceptibility prediction system** designed for arid region
 ---
 
 ## 🎥 Demo Video
-[![Watch the Demo](https://youtu.be/XEKELYtyEHg)
+[Watch the Demo](https://youtu.be/XEKELYtyEHg)
 
 ---
 
