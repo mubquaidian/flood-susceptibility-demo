@@ -101,7 +101,7 @@ An **AI-driven flood susceptibility prediction system** designed for arid region
 ## 📋 Presentation
 
 - [📄 View Abstract](abstract/flood_susceptibility_abstract.pdf)
-- [📄 View Full Presentation](presentation/flood_susceptibility_presentation.pdf)
+- 🔒 Full presentation available upon request.
 
 ---
 
