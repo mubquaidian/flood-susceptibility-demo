@@ -110,7 +110,7 @@ An **AI-driven flood susceptibility prediction system** designed for arid region
 | Sector | Application |
 | :--- | :--- |
 | **Urban Planning** | Identify flood-prone areas for development restrictions |
-| **Real Estate** | Property risk assessment (AED 1,800/report) |
+| **Real Estate** | Property risk assessment |
 | **Disaster Preparedness** | Early warning systems and evacuation planning |
 | **Infrastructure** | Design drainage systems in risk areas |
 | **Climate Adaptation** | Support UAE's COP28 goals |
@@ -128,7 +128,7 @@ This repository is for **demonstration purposes only**.
 For access to the complete system, please contact:
 
 📧 **mubquaidian@live.com**
-📞 **055 776 7285**
+📞 **+971 55 776 7285**
 
 ---
 
